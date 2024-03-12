@@ -1,0 +1,5 @@
+Login2|Password2|AB|BB|DEVELOPER
+Login3|Password3|AC|BC|MANAGER
+Login4|Password4|AD|BD|DEVELOPER
+Login5|Password5|AE|BE|MANAGER
+Login|Password|AA|BA|DEVELOPER

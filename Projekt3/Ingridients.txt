@@ -1,0 +1,14 @@
+Sol/SALTY
+Banan/SWEET
+Bekon/NEUTRAL
+Mieso/NEUTRAL
+Brokul/BITTER
+Cytryna/SOUR
+Jagody/SWEET
+Kalmar/BITTER
+Kiwi/SOUR
+Oscypek/SALTY
+Ciasto/NEUTRAL
+Masło/NEUTRAL
+Ogórek/SOUR
+Chleb/NEUTRAL

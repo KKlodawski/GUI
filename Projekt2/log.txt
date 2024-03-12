@@ -1,0 +1,1474 @@
+Login zalogowano
+Login wylogowano
+Login3 zalogowano
+Login3 wylogowano
+Login2 zalogowano
+Login2 wylogowano
+Login zalogowano
+Login wylogowano
+Login zalogowano
+Login wylogowano
+Login zalogowano2022-05-21 20:25:47.955
+Login wylogowano2022-05-21 20:25:48.893
+Niedana próba logowania niezarejestrowanego użytkownika2022-05-21 20:25:56.277
+Login nieudana próba logowania2022-05-21 20:26:01.214
+Login zalogowano 2022-05-21 20:36:23.785
+Login wylogowano 2022-05-21 20:36:41.53
+Login zalogowano 2022-05-21 20:37:01.989
+Login wylogowano 2022-05-21 20:37:20.183
+Login zalogowano 2022-05-21 20:37:32.58
+Login wylogowano 2022-05-21 20:37:36.822
+Login zalogowano 2022-05-21 20:39:38.555
+Login wylogowano 2022-05-21 20:39:42.8
+Login zalogowano 2022-05-21 20:40:00.874
+Login wylogowano 2022-05-21 20:40:05.497
+Login zalogowano 2022-05-21 20:42:03.613
+Login wylogowano 2022-05-21 20:42:07.222
+Login zalogowano 2022-05-21 20:43:35.076
+Login wylogowano 2022-05-21 20:43:43.247
+Login zalogowano 2022-05-21 20:45:26.604
+Login zalogowano 2022-05-21 20:46:01.919
+Login zalogowano 2022-05-21 20:46:18.828
+Login wylogowano 2022-05-21 20:46:25.81
+Login zalogowano 2022-05-21 20:47:31.154
+Login wylogowano 2022-05-21 20:47:44.093
+Niedana próba logowania niezarejestrowanego użytkownika 2022-05-21 20:47:46.276
+Login zalogowano 2022-05-21 20:57:33.215
+Login wylogowano 2022-05-21 20:57:35.364
+Login zalogowano 2022-05-21 20:57:55.111
+Login wylogowano 2022-05-21 20:57:56.808
+Login zalogowano 2022-05-21 21:02:47.182
+Login wylogowano 2022-05-21 21:02:49.38
+Login nieudana próba logowania 2022-05-21 21:02:52.426
+Login zalogowano 2022-05-21 21:02:54.061
+Login wylogowano 2022-05-21 21:02:56.07
+Login zalogowano 2022-05-21 21:04:12.914
+Login wylogowano 2022-05-21 21:04:14.211
+Login zalogowano 2022-05-21 21:04:14.661
+Login wylogowano 2022-05-21 21:04:15.433
+Login zalogowano 2022-05-21 21:04:16.268
+Login wylogowano 2022-05-21 21:04:16.834
+Login zalogowano || 2022-05-21 21:05:06.5
+Login wylogowano || 2022-05-21 21:05:07.15
+Login zalogowano || 2022-05-21 21:05:40.774
+Login wylogowano || 2022-05-21 21:06:47.754
+Login zalogowano || 2022-05-21 21:06:52.649
+Login wylogowano || 2022-05-21 21:06:57.205
+Login zalogowano || 2022-05-21 22:09:14.565
+Login wylogowano || 2022-05-21 22:09:15.67
+Login zalogowano || 2022-05-21 23:58:53.711
+Login wylogowano || 2022-05-21 23:58:54.439
+Login zalogowano || 2022-05-21 23:58:55.41
+Login wylogowano || 2022-05-21 23:58:56.047
+Login zalogowano || 2022-05-21 23:58:56.784
+Login wylogowano || 2022-05-21 23:58:57.498
+Login zalogowano || 2022-05-22 01:43:46.862
+Login wylogowano || 2022-05-22 01:43:57.389
+Login zalogowano || 2022-05-22 01:45:54.449
+Login wylogowano || 2022-05-22 01:45:57.902
+Login zalogowano || 2022-05-22 23:47:42.051
+Login zalogowano || 2022-05-22 23:52:40.558
+Login wylogowano || 2022-05-22 23:52:48.472
+Login zalogowano || 2022-05-22 23:52:58.168
+Login wylogowano || 2022-05-22 23:53:19.812
+Login zalogowano || 2022-05-22 23:53:32.906
+Login wylogowano || 2022-05-22 23:53:36.684
+Login zalogowano || 2022-05-22 23:54:18.265
+Login wylogowano || 2022-05-22 23:54:20.317
+Login zalogowano || 2022-05-22 23:55:08.512
+Login wylogowano || 2022-05-22 23:55:12.802
+Login zalogowano || 2022-05-22 23:55:24.544
+Login wylogowano || 2022-05-22 23:55:26.078
+Login zalogowano || 2022-05-22 23:56:22.54
+Login wylogowano || 2022-05-22 23:56:24.774
+Login zalogowano || 2022-05-22 23:58:32.361
+Login wylogowano || 2022-05-22 23:58:44.356
+Login2 zalogowano || 2022-05-22 23:58:49.39
+Login2 wylogowano || 2022-05-22 23:58:53.077
+Login zalogowano || 2022-05-22 23:59:29.473
+Login wylogowano || 2022-05-22 23:59:31.368
+Login zalogowano || 2022-05-23 00:00:57.635
+Login wylogowano || 2022-05-23 00:01:07.494
+Login zalogowano || 2022-05-23 00:01:49.061
+Login wylogowano || 2022-05-23 00:01:57.165
+Login zalogowano || 2022-05-23 00:02:08.787
+Login wylogowano || 2022-05-23 00:02:17.088
+Login zalogowano || 2022-05-23 00:02:26.093
+Login wylogowano || 2022-05-23 00:02:28.596
+Login zalogowano || 2022-05-23 00:03:45.482
+Login zalogowano || 2022-05-23 00:04:03.838
+Login wylogowano || 2022-05-23 00:04:06.068
+Login zalogowano || 2022-05-23 00:04:31.414
+Login wylogowano || 2022-05-23 00:04:32.784
+Login zalogowano || 2022-05-23 00:06:07.742
+Login wylogowano || 2022-05-23 00:06:13.567
+Login2 zalogowano || 2022-05-23 00:06:15.82
+Login2 wylogowano || 2022-05-23 00:06:17.516
+Login zalogowano || 2022-05-23 00:06:47.546
+Login wylogowano || 2022-05-23 00:06:51.853
+Login zalogowano || 2022-05-23 00:10:21.403
+Login wylogowano || 2022-05-23 00:10:26.36
+Login zalogowano || 2022-05-23 00:10:48.931
+Login wylogowano || 2022-05-23 00:10:53.747
+Login zalogowano || 2022-05-23 00:11:17.843
+Login wylogowano || 2022-05-23 00:11:22.232
+Login zalogowano || 2022-05-23 00:12:52.594
+Login wylogowano || 2022-05-23 00:12:59.735
+Login2 zalogowano || 2022-05-23 00:13:01.161
+Login2 wylogowano || 2022-05-23 00:13:03.114
+Login zalogowano || 2022-05-23 00:13:22.862
+Login wylogowano || 2022-05-23 00:13:24.458
+Login zalogowano || 2022-05-23 00:16:26.583
+Login zalogowano || 2022-05-23 00:17:14.905
+Login wylogowano || 2022-05-23 00:17:18.341
+Login zalogowano || 2022-05-23 00:17:28.064
+Login wylogowano || 2022-05-23 00:17:30.054
+Login zalogowano || 2022-05-23 00:17:41.107
+Login wylogowano || 2022-05-23 00:17:43.466
+Login zalogowano || 2022-05-23 00:19:36.735
+Login wylogowano || 2022-05-23 00:19:37.897
+Login zalogowano || 2022-05-23 00:20:00.475
+Login wylogowano || 2022-05-23 00:20:03.499
+Login2 zalogowano || 2022-05-23 00:20:05.284
+Login2 wylogowano || 2022-05-23 00:20:06.245
+Login zalogowano || 2022-05-23 00:20:36.146
+Login wylogowano || 2022-05-23 00:20:40.525
+Login zalogowano || 2022-05-23 00:21:00.361
+Login wylogowano || 2022-05-23 00:21:02.415
+Login zalogowano || 2022-05-23 00:21:17.293
+Login wylogowano || 2022-05-23 00:21:18.593
+Login zalogowano || 2022-05-23 00:23:07.812
+Login wylogowano || 2022-05-23 00:23:09.701
+Login zalogowano || 2022-05-23 00:24:54.239
+Login wylogowano || 2022-05-23 00:24:57.162
+Login zalogowano || 2022-05-23 00:25:07.805
+Login wylogowano || 2022-05-23 00:25:10.033
+Login zalogowano || 2022-05-23 00:25:42.322
+Login wylogowano || 2022-05-23 00:25:43.564
+Login zalogowano || 2022-05-23 00:26:10.275
+Login wylogowano || 2022-05-23 00:26:15.051
+Login zalogowano || 2022-05-23 00:26:21.597
+Login wylogowano || 2022-05-23 00:26:22.845
+Login zalogowano || 2022-05-23 00:26:38.254
+Login wylogowano || 2022-05-23 00:26:39.754
+Login zalogowano || 2022-05-23 00:27:57.367
+Login wylogowano || 2022-05-23 00:27:58.59
+Login zalogowano || 2022-05-23 00:28:15.754
+Login wylogowano || 2022-05-23 00:28:18.259
+Login zalogowano || 2022-05-23 00:28:56.372
+Login wylogowano || 2022-05-23 00:28:57.604
+Login zalogowano || 2022-05-23 00:29:04.511
+Login wylogowano || 2022-05-23 00:29:05.778
+Login zalogowano || 2022-05-23 00:29:23.675
+Login wylogowano || 2022-05-23 00:29:25.144
+Login zalogowano || 2022-05-23 00:29:50.331
+Login wylogowano || 2022-05-23 00:29:53.712
+Login zalogowano || 2022-05-23 00:33:09.637
+Login wylogowano || 2022-05-23 00:33:14.885
+Login zalogowano || 2022-05-23 00:33:21.087
+Login wylogowano || 2022-05-23 00:33:22.126
+Login zalogowano || 2022-05-23 00:35:14.196
+Login wylogowano || 2022-05-23 00:35:16.003
+Login zalogowano || 2022-05-23 00:35:25.715
+Login wylogowano || 2022-05-23 00:35:27.136
+Login zalogowano || 2022-05-23 00:35:38.643
+Login wylogowano || 2022-05-23 00:35:39.771
+Login zalogowano || 2022-05-23 00:35:55.897
+Login wylogowano || 2022-05-23 00:35:57.244
+Login zalogowano || 2022-05-23 00:37:09.871
+Login wylogowano || 2022-05-23 00:37:13.306
+Login zalogowano || 2022-05-23 00:37:35.273
+Login wylogowano || 2022-05-23 00:37:38.813
+Login zalogowano || 2022-05-23 00:37:45.856
+Login wylogowano || 2022-05-23 00:37:54.039
+Login zalogowano || 2022-05-23 00:38:47.71
+Login wylogowano || 2022-05-23 00:38:57.946
+Login zalogowano || 2022-05-23 00:39:17.291
+Login wylogowano || 2022-05-23 00:39:19.071
+Login zalogowano || 2022-05-23 00:39:25.931
+Login wylogowano || 2022-05-23 00:39:27.774
+Login zalogowano || 2022-05-23 00:39:35.934
+Login wylogowano || 2022-05-23 00:39:39.871
+Login zalogowano || 2022-05-23 00:40:43.029
+Login zalogowano || 2022-05-23 00:41:14.086
+Login zalogowano || 2022-05-23 00:43:54.266
+Login wylogowano || 2022-05-23 00:44:00.165
+Login zalogowano || 2022-05-23 00:45:07.623
+Login wylogowano || 2022-05-23 00:45:09.733
+Login zalogowano || 2022-05-23 00:48:54.507
+Login wylogowano || 2022-05-23 00:49:07.802
+Login zalogowano || 2022-05-23 00:49:28.528
+Login wylogowano || 2022-05-23 00:49:34.031
+Login zalogowano || 2022-05-23 00:49:42.531
+Login wylogowano || 2022-05-23 00:50:12.27
+Login zalogowano || 2022-05-23 00:54:02.545
+Login wylogowano || 2022-05-23 00:54:04.422
+Login zalogowano || 2022-05-23 00:55:09.907
+Login wylogowano || 2022-05-23 00:55:10.804
+Login zalogowano || 2022-05-23 00:58:07.568
+Login wylogowano || 2022-05-23 00:58:08.79
+Login zalogowano || 2022-05-23 00:58:15.0
+Login wylogowano || 2022-05-23 00:58:16.318
+Login zalogowano || 2022-05-23 00:58:17.522
+Login wylogowano || 2022-05-23 00:58:19.618
+Login zalogowano || 2022-05-23 00:59:43.039
+Login wylogowano || 2022-05-23 00:59:45.024
+Login zalogowano || 2022-05-23 00:59:56.094
+Login wylogowano || 2022-05-23 01:00:01.908
+Login zalogowano || 2022-05-23 01:06:55.188
+Login wylogowano || 2022-05-23 01:06:57.817
+Login zalogowano || 2022-05-23 01:07:13.641
+Login wylogowano || 2022-05-23 01:07:14.879
+Login zalogowano || 2022-05-23 01:09:49.488
+Login wylogowano || 2022-05-23 01:09:50.777
+Login zalogowano || 2022-05-23 01:12:30.012
+Login wylogowano || 2022-05-23 01:12:56.882
+Login zalogowano || 2022-05-23 01:13:09.732
+Login wylogowano || 2022-05-23 01:13:12.894
+Login zalogowano || 2022-05-23 01:13:37.028
+Login wylogowano || 2022-05-23 01:13:44.604
+Login zalogowano || 2022-05-23 01:14:50.828
+Login wylogowano || 2022-05-23 01:14:55.809
+Login zalogowano || 2022-05-23 01:15:32.649
+Login wylogowano || 2022-05-23 01:15:55.984
+Login zalogowano || 2022-05-23 01:16:06.878
+Login wylogowano || 2022-05-23 01:16:10.091
+Login zalogowano || 2022-05-23 01:16:27.38
+Login wylogowano || 2022-05-23 01:16:32.764
+Login zalogowano || 2022-05-23 01:24:29.676
+Login wylogowano || 2022-05-23 01:24:37.121
+Login zalogowano || 2022-05-23 01:24:57.384
+Login wylogowano || 2022-05-23 01:25:01.652
+Login zalogowano || 2022-05-23 01:26:01.272
+Login wylogowano || 2022-05-23 01:26:06.504
+Login zalogowano || 2022-05-23 01:26:28.392
+Login wylogowano || 2022-05-23 01:26:32.674
+Login zalogowano || 2022-05-23 01:28:59.092
+Login wylogowano || 2022-05-23 01:29:02.096
+Login zalogowano || 2022-05-23 01:32:32.842
+Login zalogowano || 2022-05-23 01:32:56.071
+Login wylogowano || 2022-05-23 01:33:05.116
+Login zalogowano || 2022-05-23 01:33:48.162
+Login wylogowano || 2022-05-23 01:33:50.688
+Login zalogowano || 2022-05-23 01:34:25.002
+Login wylogowano || 2022-05-23 01:34:30.901
+Login zalogowano || 2022-05-23 01:34:48.048
+Login wylogowano || 2022-05-23 01:34:53.36
+Login zalogowano || 2022-05-23 01:35:32.273
+Login wylogowano || 2022-05-23 01:35:33.943
+Login zalogowano || 2022-05-23 01:35:43.3
+Login wylogowano || 2022-05-23 01:35:46.08
+Login zalogowano || 2022-05-23 01:47:13.676
+Login wylogowano || 2022-05-23 01:47:20.691
+Login zalogowano || 2022-05-23 01:47:37.475
+Login wylogowano || 2022-05-23 01:47:39.385
+Login zalogowano || 2022-05-23 01:48:17.62
+Login wylogowano || 2022-05-23 01:48:19.409
+Login zalogowano || 2022-05-23 01:48:35.615
+Login wylogowano || 2022-05-23 01:48:37.285
+Login zalogowano || 2022-05-23 01:48:59.82
+Login wylogowano || 2022-05-23 01:49:01.985
+Login zalogowano || 2022-05-23 01:57:54.943
+Login zalogowano || 2022-05-23 02:00:33.932
+Login wylogowano || 2022-05-23 02:00:53.744
+Login zalogowano || 2022-05-23 02:08:38.784
+Login wylogowano || 2022-05-23 02:08:56.324
+Login zalogowano || 2022-05-23 02:19:03.528
+Login zalogowano || 2022-05-23 02:19:45.659
+Login zalogowano || 2022-05-23 02:23:12.703
+Login wylogowano || 2022-05-23 02:23:27.942
+Login zalogowano || 2022-05-23 02:23:37.927
+Login wylogowano || 2022-05-23 02:23:42.337
+Login zalogowano || 2022-05-23 02:24:02.775
+Login wylogowano || 2022-05-23 02:24:12.028
+Login zalogowano || 2022-05-23 02:24:33.097
+Login wylogowano || 2022-05-23 02:24:59.254
+Login zalogowano || 2022-05-23 02:25:00.253
+Login wylogowano || 2022-05-23 02:25:01.626
+Login zalogowano || 2022-05-23 02:25:16.494
+Login wylogowano || 2022-05-23 02:25:18.755
+Login zalogowano || 2022-05-23 02:25:28.693
+Login wylogowano || 2022-05-23 02:25:30.017
+Login zalogowano || 2022-05-23 02:25:37.513
+Login wylogowano || 2022-05-23 02:25:46.336
+Login zalogowano || 2022-05-23 02:25:53.671
+Login wylogowano || 2022-05-23 02:25:54.762
+Login zalogowano || 2022-05-23 02:26:01.059
+Login wylogowano || 2022-05-23 02:26:02.18
+Login zalogowano || 2022-05-23 02:26:10.863
+Login wylogowano || 2022-05-23 02:26:12.047
+Login zalogowano || 2022-05-23 02:26:18.168
+Login wylogowano || 2022-05-23 02:26:21.075
+Login zalogowano || 2022-05-23 02:26:42.456
+Login wylogowano || 2022-05-23 02:26:56.855
+Login zalogowano || 2022-05-23 02:27:05.689
+Login wylogowano || 2022-05-23 02:27:15.776
+Login zalogowano || 2022-05-23 02:27:37.293
+Login wylogowano || 2022-05-23 02:28:57.641
+Login zalogowano || 2022-05-23 02:34:04.174
+Login wylogowano || 2022-05-23 02:34:14.141
+Login zalogowano || 2022-05-23 02:34:42.618
+Login wylogowano || 2022-05-23 02:35:00.585
+Login zalogowano || 2022-05-23 02:35:16.811
+Login wylogowano || 2022-05-23 02:35:28.723
+Login zalogowano || 2022-05-23 02:37:41.39
+Login wylogowano || 2022-05-23 02:37:49.286
+Login zalogowano || 2022-05-23 02:39:30.046
+Login wylogowano || 2022-05-23 02:39:34.002
+Login zalogowano || 2022-05-23 02:39:41.883
+Login wylogowano || 2022-05-23 02:39:52.344
+Login zalogowano || 2022-05-23 02:41:44.208
+Login wylogowano || 2022-05-23 02:41:51.283
+Login zalogowano || 2022-05-23 02:42:58.047
+Login wylogowano || 2022-05-23 02:44:07.141
+Login2 zalogowano || 2022-05-23 02:44:08.801
+Login2 wylogowano || 2022-05-23 02:44:14.528
+Login zalogowano || 2022-05-23 02:45:32.073
+Login wylogowano || 2022-05-23 02:45:40.808
+Login zalogowano || 2022-05-23 02:53:29.29
+Login wylogowano || 2022-05-23 02:53:40.602
+Login2 zalogowano || 2022-05-23 02:53:42.363
+Login2 wylogowano || 2022-05-23 02:53:45.998
+Login zalogowano || 2022-05-23 02:56:01.095
+Login wylogowano || 2022-05-23 02:56:05.932
+Login zalogowano || 2022-05-23 02:57:25.448
+Login wylogowano || 2022-05-23 02:57:34.567
+Login zalogowano || 2022-05-23 02:58:03.998
+Login wylogowano || 2022-05-23 02:58:20.15
+Login zalogowano || 2022-05-23 02:59:21.165
+Login wylogowano || 2022-05-23 02:59:29.559
+Login zalogowano || 2022-05-23 02:59:38.374
+Login wylogowano || 2022-05-23 02:59:42.539
+Login zalogowano || 2022-05-23 02:59:49.113
+Login wylogowano || 2022-05-23 02:59:59.383
+Login zalogowano || 2022-05-23 03:00:07.235
+Login wylogowano || 2022-05-23 03:00:35.516
+Login zalogowano || 2022-05-23 03:02:47.105
+Login zalogowano || 2022-05-23 03:03:50.506
+Login wylogowano || 2022-05-23 03:03:55.836
+Login zalogowano || 2022-05-23 03:06:09.982
+Login wylogowano || 2022-05-23 03:06:17.007
+Login zalogowano || 2022-05-23 03:08:03.762
+Login wylogowano || 2022-05-23 03:08:08.856
+Login zalogowano || 2022-05-23 03:08:18.207
+Login wylogowano || 2022-05-23 03:08:23.128
+Login zalogowano || 2022-05-23 03:08:59.605
+Login zalogowano || 2022-05-23 03:09:55.198
+Login wylogowano || 2022-05-23 03:10:01.724
+Login zalogowano || 2022-05-23 03:10:21.561
+Login wylogowano || 2022-05-23 03:10:30.055
+Login zalogowano || 2022-05-23 03:11:10.357
+Login wylogowano || 2022-05-23 03:11:20.506
+Login zalogowano || 2022-05-23 03:12:07.274
+Login wylogowano || 2022-05-23 03:12:18.718
+Login zalogowano || 2022-05-23 03:14:06.912
+Login wylogowano || 2022-05-23 03:14:13.762
+Login zalogowano || 2022-05-23 03:16:52.634
+Login wylogowano || 2022-05-23 03:16:57.304
+Login zalogowano || 2022-05-23 03:18:10.678
+Login wylogowano || 2022-05-23 03:18:19.278
+Login zalogowano || 2022-05-23 03:20:49.973
+Login wylogowano || 2022-05-23 03:20:57.81
+Login zalogowano || 2022-05-23 03:21:14.838
+Login wylogowano || 2022-05-23 03:21:18.662
+Login3 zalogowano || 2022-05-23 03:21:27.938
+Login3 wylogowano || 2022-05-23 03:21:36.874
+Login3 zalogowano || 2022-05-23 03:21:56.474
+Login3 wylogowano || 2022-05-23 03:23:25.144
+Login zalogowano || 2022-05-23 21:43:30.605
+Login wylogowano || 2022-05-23 21:43:34.908
+Login3 zalogowano || 2022-05-23 21:43:38.088
+Login3 wylogowano || 2022-05-23 21:44:04.379
+Login4 zalogowano || 2022-05-23 21:44:06.513
+Login4 wylogowano || 2022-05-23 21:44:08.492
+Login zalogowano || 2022-05-23 21:50:42.9
+Login wylogowano || 2022-05-23 21:50:51.868
+Login zalogowano || 2022-05-23 22:13:42.124
+Login zalogowano || 2022-05-23 22:15:36.204
+Login wylogowano || 2022-05-23 22:15:46.281
+Login zalogowano || 2022-05-23 22:16:21.445
+Login wylogowano || 2022-05-23 22:16:27.56
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-23 22:16:49.705
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-23 22:16:51.921
+Login zalogowano || 2022-05-23 22:16:52.581
+Login wylogowano || 2022-05-23 22:17:00.179
+Login zalogowano || 2022-05-23 22:20:36.346
+Login wylogowano || 2022-05-23 22:20:46.912
+Login zalogowano || 2022-05-23 22:21:02.65
+Login wylogowano || 2022-05-23 22:21:13.272
+Login zalogowano || 2022-05-23 22:22:20.424
+Login wylogowano || 2022-05-23 22:22:26.592
+Login zalogowano || 2022-05-23 22:22:38.531
+Login wylogowano || 2022-05-23 22:23:09.374
+Login zalogowano || 2022-05-23 22:30:11.287
+Login wylogowano || 2022-05-23 22:30:25.327
+Login zalogowano || 2022-05-23 22:31:02.949
+Login wylogowano || 2022-05-23 22:31:10.709
+Login zalogowano || 2022-05-23 22:31:36.967
+Login wylogowano || 2022-05-23 22:31:45.959
+Login zalogowano || 2022-05-23 22:32:16.559
+Login wylogowano || 2022-05-23 22:32:22.304
+Login zalogowano || 2022-05-23 22:32:29.565
+Login wylogowano || 2022-05-23 22:32:35.59
+Login zalogowano || 2022-05-23 22:36:47.407
+Login wylogowano || 2022-05-23 22:36:58.37
+Login zalogowano || 2022-05-23 22:36:59.173
+Login wylogowano || 2022-05-23 22:37:30.434
+Login zalogowano || 2022-05-23 22:37:38.896
+Login wylogowano || 2022-05-23 22:37:48.845
+Login zalogowano || 2022-05-23 22:37:56.416
+Login wylogowano || 2022-05-23 22:40:27.546
+Login zalogowano || 2022-05-23 22:41:54.846
+Login zalogowano || 2022-05-23 22:43:42.705
+Login zalogowano || 2022-05-23 22:46:14.012
+Login wylogowano || 2022-05-23 22:46:29.119
+Login zalogowano || 2022-05-23 22:46:33.654
+Login wylogowano || 2022-05-23 22:46:44.773
+Login zalogowano || 2022-05-23 22:48:19.536
+Login wylogowano || 2022-05-23 22:48:39.294
+Login zalogowano || 2022-05-23 22:48:40.224
+Login wylogowano || 2022-05-23 22:49:53.136
+Login zalogowano || 2022-05-23 22:50:07.762
+Login zalogowano || 2022-05-23 22:52:11.554
+Login wylogowano || 2022-05-23 22:54:02.918
+Login zalogowano || 2022-05-23 22:54:08.373
+Login wylogowano || 2022-05-23 22:55:17.157
+Login zalogowano || 2022-05-23 22:55:23.439
+Login wylogowano || 2022-05-23 22:55:32.924
+Login zalogowano || 2022-05-23 22:55:50.307
+Login wylogowano || 2022-05-23 22:56:19.803
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-23 22:57:11.945
+Login zalogowano || 2022-05-23 22:57:13.423
+Login zalogowano || 2022-05-23 23:00:19.935
+Login wylogowano || 2022-05-23 23:00:53.244
+Login zalogowano || 2022-05-23 23:02:03.776
+Login wylogowano || 2022-05-23 23:02:26.428
+Login zalogowano || 2022-05-23 23:03:33.9
+Login wylogowano || 2022-05-23 23:03:53.645
+Login zalogowano || 2022-05-23 23:05:22.033
+Login zalogowano || 2022-05-23 23:06:13.156
+Login zalogowano || 2022-05-23 23:07:20.789
+Login wylogowano || 2022-05-23 23:07:27.26
+Login zalogowano || 2022-05-23 23:10:05.496
+Login wylogowano || 2022-05-23 23:10:10.583
+Login zalogowano || 2022-05-23 23:13:52.215
+Login wylogowano || 2022-05-23 23:14:05.107
+Login zalogowano || 2022-05-23 23:14:29.731
+Login wylogowano || 2022-05-23 23:14:34.62
+Login3 zalogowano || 2022-05-23 23:14:37.007
+Login3 wylogowano || 2022-05-23 23:15:04.061
+Login zalogowano || 2022-05-23 23:15:22.023
+Login wylogowano || 2022-05-23 23:15:29.539
+Login zalogowano || 2022-05-23 23:20:33.631
+Login wylogowano || 2022-05-23 23:21:04.421
+Login zalogowano || 2022-05-23 23:21:17.63
+Login wylogowano || 2022-05-23 23:21:35.295
+Login zalogowano || 2022-05-23 23:22:33.676
+Login wylogowano || 2022-05-23 23:23:29.734
+Login zalogowano || 2022-05-23 23:23:43.837
+Login zalogowano || 2022-05-23 23:24:36.258
+Login wylogowano || 2022-05-23 23:24:57.741
+Login zalogowano || 2022-05-23 23:25:03.69
+Login zalogowano || 2022-05-23 23:26:31.536
+Login wylogowano || 2022-05-23 23:26:40.019
+Login zalogowano || 2022-05-23 23:26:50.353
+Login wylogowano || 2022-05-23 23:26:52.892
+Login zalogowano || 2022-05-23 23:27:02.707
+Login wylogowano || 2022-05-23 23:27:09.863
+Login zalogowano || 2022-05-23 23:27:44.794
+Login zalogowano || 2022-05-23 23:29:53.399
+Login wylogowano || 2022-05-23 23:30:01.279
+Login zalogowano || 2022-05-23 23:30:31.327
+Login wylogowano || 2022-05-23 23:30:39.8
+Login zalogowano || 2022-05-23 23:30:40.664
+Login wylogowano || 2022-05-23 23:30:59.758
+Login zalogowano || 2022-05-23 23:31:13.015
+Login zalogowano || 2022-05-23 23:32:23.777
+Login zalogowano || 2022-05-23 23:33:06.068
+Login wylogowano || 2022-05-23 23:34:38.241
+Login zalogowano || 2022-05-23 23:35:02.968
+Login wylogowano || 2022-05-23 23:35:14.289
+Login zalogowano || 2022-05-23 23:35:23.784
+Login wylogowano || 2022-05-23 23:37:03.744
+Login zalogowano || 2022-05-23 23:39:56.137
+Login wylogowano || 2022-05-23 23:40:06.269
+Login3 zalogowano || 2022-05-23 23:40:07.824
+Login3 wylogowano || 2022-05-23 23:40:16.807
+Login zalogowano || 2022-05-23 23:42:12.01
+Login wylogowano || 2022-05-23 23:42:29.129
+Login zalogowano || 2022-05-23 23:42:40.169
+Login wylogowano || 2022-05-23 23:42:45.38
+Login zalogowano || 2022-05-23 23:43:00.825
+Login wylogowano || 2022-05-23 23:43:05.114
+Login zalogowano || 2022-05-23 23:44:08.999
+Login wylogowano || 2022-05-23 23:44:11.135
+Login zalogowano || 2022-05-23 23:52:19.569
+Login wylogowano || 2022-05-23 23:52:45.523
+Login zalogowano || 2022-05-23 23:52:57.988
+Login zalogowano || 2022-05-23 23:55:48.014
+Login zalogowano || 2022-05-23 23:57:20.909
+Login zalogowano || 2022-05-24 00:04:43.027
+Login wylogowano || 2022-05-24 00:04:56.595
+Login zalogowano || 2022-05-24 00:06:13.429
+Login wylogowano || 2022-05-24 00:06:20.981
+Login3 zalogowano || 2022-05-24 00:06:22.624
+Login3 wylogowano || 2022-05-24 00:06:51.407
+Login3 zalogowano || 2022-05-24 00:09:45.976
+Login3 wylogowano || 2022-05-24 00:10:07.474
+Login zalogowano || 2022-05-24 00:13:58.911
+Login wylogowano || 2022-05-24 00:14:07.061
+Login3 zalogowano || 2022-05-24 00:14:09.104
+Login3 dodał komentarz do projektu : P1 || 2022-05-24 00:14:13.916
+ || 2022-05-24 00:14:13.916
+Login3 wylogowano || 2022-05-24 00:14:27.418
+Login3 zalogowano || 2022-05-24 00:16:16.816
+Login3 dodał komentarz do projektu : P1 || 2022-05-24 00:16:19.708
+ || 2022-05-24 00:16:19.708
+Login3 wylogowano || 2022-05-24 00:16:46.394
+Login zalogowano || 2022-05-24 00:18:20.664
+Login wylogowano || 2022-05-24 00:18:22.234
+Login3 zalogowano || 2022-05-24 00:18:23.528
+Login3 wylogowano || 2022-05-24 00:18:28.165
+Login3 zalogowano || 2022-05-24 00:18:44.232
+Login3 dodał komentarz do projektu : P1
+ || 2022-05-24 00:18:50.352
+Login3 dodał komentarz do projektu : P2
+ || 2022-05-24 00:18:53.755
+Login3 wylogowano || 2022-05-24 00:18:57.203
+Login zalogowano || 2022-05-24 00:18:58.208
+Login wylogowano || 2022-05-24 00:19:03.445
+Login zalogowano || 2022-05-24 00:22:11.998
+Login wylogowano || 2022-05-24 00:22:29.081
+Login3 zalogowano || 2022-05-24 00:22:34.728
+Login3 wylogowano || 2022-05-24 00:22:40.723
+Login zalogowano || 2022-05-24 00:30:20.259
+Login wylogowano || 2022-05-24 00:30:33.767
+Login zalogowano || 2022-05-24 00:32:44.928
+Login wylogowano || 2022-05-24 00:32:58.428
+Login zalogowano || 2022-05-24 00:33:49.611
+Login wylogowano || 2022-05-24 00:34:02.994
+Login zalogowano || 2022-05-24 00:37:05.193
+Login zmienił status projektu P1 z Aktywny na Zaplanowany || 2022-05-24 00:37:08.983
+Login zmienił status projektu P1 z Zaplanowany na Aktywny || 2022-05-24 00:37:11.978
+Login zmienił status projektu P1 z Aktywny na Zakonczony || 2022-05-24 00:37:14.244
+Login wylogowano || 2022-05-24 00:38:00.593
+Login zalogowano || 2022-05-24 00:38:19.594
+Login wylogowano || 2022-05-24 00:38:27.2
+Login zalogowano || 2022-05-24 00:40:53.312
+Login zmienił status projektu P1 z Aktywny na Zakonczony || 2022-05-24 00:40:57.597
+Login wylogowano || 2022-05-24 00:41:00.024
+Login3 zalogowano || 2022-05-24 00:41:01.583
+Login3 wylogowano || 2022-05-24 00:41:34.879
+Login3 zalogowano || 2022-05-24 00:43:31.808
+Login3 wylogowano || 2022-05-24 00:43:54.082
+Login zalogowano || 2022-05-24 00:46:55.045
+Login zalogowano || 2022-05-24 00:50:07.066
+Login zmienił status projektu P2 z Zaplanowany na Zakonczony || 2022-05-24 00:50:23.011
+Login wylogowano || 2022-05-24 00:50:29.018
+Login zalogowano || 2022-05-24 00:51:16.137
+Login wylogowano || 2022-05-24 00:51:39.862
+Login zalogowano || 2022-05-24 00:51:58.734
+Login wylogowano || 2022-05-24 00:52:10.757
+Login zalogowano || 2022-05-24 00:52:27.864
+Login wylogowano || 2022-05-24 00:52:33.864
+Login zalogowano || 2022-05-24 00:52:48.755
+Login wylogowano || 2022-05-24 00:53:02.032
+Login zalogowano || 2022-05-24 00:53:08.665
+Login wylogowano || 2022-05-24 00:53:13.433
+Login3 zalogowano || 2022-05-24 00:54:46.432
+Login3 zmienił swoj komentarz || 2022-05-24 00:54:49.98
+Login3 wylogowano || 2022-05-24 00:54:54.239
+Login zalogowano || 2022-05-24 00:54:55.295
+Login wylogowano || 2022-05-24 00:54:58.784
+Login zalogowano || 2022-05-24 00:56:52.329
+Login dodał komentarz do projektu : P2 || 2022-05-24 00:56:58.193
+Login zmienił swoj komentarz || 2022-05-24 00:57:01.425
+Login wylogowano || 2022-05-24 00:57:04.897
+Login zalogowano || 2022-05-24 00:57:37.318
+Login zmienił status projektu P1 z Zakonczony na Zaplanowany || 2022-05-24 00:57:44.98
+Login zmienił swoj komentarz || 2022-05-24 00:57:45.596
+Login wylogowano || 2022-05-24 00:57:51.153
+Login zalogowano || 2022-05-24 00:59:51.381
+Login zmienił status projektu P1 z Zaplanowany na Aktywny || 2022-05-24 00:59:54.236
+Login zmienił status projektu P1 z Aktywny na Zakonczony || 2022-05-24 00:59:59.059
+Login zmienił swoj komentarz || 2022-05-24 00:59:59.064
+Login wylogowano || 2022-05-24 01:00:02.258
+Login3 zalogowano || 2022-05-24 01:02:28.876
+Login3 wylogowano || 2022-05-24 01:03:03.648
+Login3 zalogowano || 2022-05-24 01:03:17.2
+Login3 wylogowano || 2022-05-24 01:03:30.659
+Login3 zalogowano || 2022-05-24 01:07:53.192
+Login3 zmienił pracownikow projektu P1 || 2022-05-24 01:07:57.238
+Login3 zmienił pracownikow projektu P1 || 2022-05-24 01:08:10.735
+Login3 wylogowano || 2022-05-24 01:08:36.899
+Login3 zalogowano || 2022-05-24 01:08:54.09
+Login3 zmienił swoj komentarz || 2022-05-24 01:08:59.904
+Login3 wylogowano || 2022-05-24 01:09:04.598
+Login3 zalogowano || 2022-05-24 01:10:31.949
+Login3 zmienił swoj komentarz || 2022-05-24 01:10:55.347
+Login3 zmienił swoj komentarz || 2022-05-24 01:10:58.773
+Login3 zmienił pracownikow projektu P2 || 2022-05-24 01:10:58.786
+Login3 wylogowano || 2022-05-24 01:11:41.421
+Login zalogowano || 2022-05-24 01:15:57.879
+Login wylogowano || 2022-05-24 01:16:03.611
+Login zalogowano || 2022-05-24 01:16:17.062
+Login wylogowano || 2022-05-24 01:16:18.228
+Login zalogowano || 2022-05-24 01:16:37.463
+Login wylogowano || 2022-05-24 01:16:39.174
+Login zalogowano || 2022-05-24 01:16:53.491
+Login wylogowano || 2022-05-24 01:16:54.835
+Login2 zalogowano || 2022-05-24 01:16:56.522
+Login2 wylogowano || 2022-05-24 01:17:00.854
+Login zalogowano || 2022-05-24 01:17:44.954
+Login wylogowano || 2022-05-24 01:17:46.32
+Login2 zalogowano || 2022-05-24 01:17:47.959
+Login2 wylogowano || 2022-05-24 01:17:55.582
+Login3 zalogowano || 2022-05-24 01:18:31.513
+Login3 zmienił swoj komentarz || 2022-05-24 01:18:39.309
+Login3 zmienił swoj komentarz || 2022-05-24 01:18:49.131
+Login3 wylogowano || 2022-05-24 01:18:50.539
+Login zalogowano || 2022-05-24 01:19:24.798
+Login wylogowano || 2022-05-24 01:19:26.458
+Login3 zalogowano || 2022-05-24 01:19:28.538
+Login3 zmienił swoj komentarz || 2022-05-24 01:19:32.97
+Login3 wylogowano || 2022-05-24 01:19:43.13
+Login zalogowano || 2022-05-24 01:22:52.494
+Login wylogowano || 2022-05-24 01:22:54.69
+Login3 zalogowano || 2022-05-24 01:22:56.096
+Login3 wylogowano || 2022-05-24 01:23:14.709
+Login3 zalogowano || 2022-05-24 01:23:26.268
+Login3 zmienił pracownikow projektu P1 || 2022-05-24 01:23:30.506
+Login3 wylogowano || 2022-05-24 01:23:32.495
+Login zalogowano || 2022-05-24 01:23:33.578
+Login wylogowano || 2022-05-24 01:23:46.293
+Login zalogowano || 2022-05-24 01:24:09.476
+Login wylogowano || 2022-05-24 01:24:27.827
+Login zalogowano || 2022-05-24 01:26:45.66
+Login wylogowano || 2022-05-24 01:26:52.16
+Login zalogowano || 2022-05-24 01:31:16.007
+Login wylogowano || 2022-05-24 01:31:25.267
+Login zalogowano || 2022-05-24 01:32:03.249
+Login wylogowano || 2022-05-24 01:32:11.235
+Login zalogowano || 2022-05-24 01:40:50.044
+Login wylogowano || 2022-05-24 01:41:04.806
+Login zalogowano || 2022-05-24 01:41:40.839
+Login wylogowano || 2022-05-24 01:41:51.025
+Login zalogowano || 2022-05-24 01:42:17.449
+Login wylogowano || 2022-05-24 01:42:49.794
+Login zalogowano || 2022-05-24 01:43:08.153
+Login wylogowano || 2022-05-24 01:43:36.948
+Login zalogowano || 2022-05-24 01:44:41.489
+Login wylogowano || 2022-05-24 01:45:00.071
+Login zalogowano || 2022-05-24 01:47:51.929
+Login wylogowano || 2022-05-24 01:48:07.816
+Login zalogowano || 2022-05-24 01:48:54.996
+Login wylogowano || 2022-05-24 01:49:02.196
+Login zalogowano || 2022-05-24 01:49:06.438
+Login wylogowano || 2022-05-24 01:49:27.873
+Login zalogowano || 2022-05-24 01:50:50.869
+Login wylogowano || 2022-05-24 01:51:55.638
+Login zalogowano || 2022-05-24 01:54:06.804
+Login wylogowano || 2022-05-24 01:54:16.927
+Login zalogowano || 2022-05-24 01:54:28.064
+Login wylogowano || 2022-05-24 01:54:41.205
+Login zalogowano || 2022-05-24 01:54:54.989
+Login zmienił swoj komentarz || 2022-05-24 01:55:07.643
+Login wylogowano || 2022-05-24 01:55:09.186
+Login3 zalogowano || 2022-05-24 01:55:44.176
+Login3 wylogowano || 2022-05-24 01:56:21.601
+Login zalogowano || 2022-05-24 01:56:51.452
+Login zmienił swoj komentarz || 2022-05-24 01:57:06.406
+Login wylogowano || 2022-05-24 01:57:12.676
+Login zalogowano || 2022-05-24 01:59:06.745
+Login wylogowano || 2022-05-24 01:59:35.505
+Login zalogowano || 2022-05-24 02:01:49.36
+Login wylogowano || 2022-05-24 02:01:50.616
+Login3 zalogowano || 2022-05-24 02:01:52.208
+Login3 wylogowano || 2022-05-24 02:01:55.536
+Login3 zalogowano || 2022-05-24 02:04:41.328
+Login zalogowano || 2022-05-24 02:07:17.866
+Login wylogowano || 2022-05-24 02:07:20.102
+Login3 zalogowano || 2022-05-24 02:07:22.097
+Login3 zalogowano || 2022-05-24 02:09:27.357
+Login3 wylogowano || 2022-05-24 02:09:35.104
+Login3 zalogowano || 2022-05-24 02:10:02.313
+Login3 wylogowano || 2022-05-24 02:10:09.63
+Login zalogowano || 2022-05-24 22:23:53.015
+Login wylogowano || 2022-05-24 22:24:06.783
+Login3 zalogowano || 2022-05-24 22:24:08.327
+Login3 wylogowano || 2022-05-24 22:24:15.893
+Login zalogowano || 2022-05-24 22:27:22.945
+Login3 zalogowano || 2022-05-24 22:33:44.175
+Login3 wylogowano || 2022-05-24 22:33:47.211
+Login3 zalogowano || 2022-05-24 22:34:21.043
+Login3 wylogowano || 2022-05-24 22:34:28.782
+Login3 zalogowano || 2022-05-24 22:35:44.704
+Login3 wylogowano || 2022-05-24 22:35:48.14
+Login3 zalogowano || 2022-05-24 22:36:22.336
+Login3 wylogowano || 2022-05-24 22:36:35.325
+Login3 zalogowano || 2022-05-24 22:36:49.975
+Login3 wylogowano || 2022-05-24 22:36:57.98
+Login3 zalogowano || 2022-05-24 22:37:25.183
+Login3 wylogowano || 2022-05-24 22:37:29.613
+Login3 zalogowano || 2022-05-24 22:40:55.616
+Login3 wylogowano || 2022-05-24 22:41:00.897
+Login3 zalogowano || 2022-05-24 22:43:48.807
+Login3 wylogowano || 2022-05-24 22:43:57.835
+Login3 zalogowano || 2022-05-24 22:53:23.215
+Login3 wylogowano || 2022-05-24 22:53:41.317
+Login3 zalogowano || 2022-05-24 22:54:15.671
+Login3 wylogowano || 2022-05-24 22:54:30.421
+Login3 zalogowano || 2022-05-24 22:54:42.664
+Login3 wylogowano || 2022-05-24 22:54:53.966
+Login3 zalogowano || 2022-05-24 22:58:35.991
+Login3 wylogowano || 2022-05-24 22:59:15.425
+Login3 zalogowano || 2022-05-24 22:59:28.102
+Login3 wylogowano || 2022-05-24 23:00:02.369
+Login zalogowano || 2022-05-24 23:00:35.372
+Login wylogowano || 2022-05-24 23:00:38.383
+Login3 zalogowano || 2022-05-24 23:00:39.831
+Login3 wylogowano || 2022-05-24 23:01:10.048
+Login3 zalogowano || 2022-05-24 23:02:45.074
+Login3 utworzyl nowy projekt o nazwie P3 || 2022-05-24 23:02:59.993
+Login3 wylogowano || 2022-05-24 23:03:08.07
+Login zalogowano || 2022-05-24 23:03:09.203
+Login wylogowano || 2022-05-24 23:03:12.855
+Login zalogowano || 2022-05-24 23:03:35.915
+Login wylogowano || 2022-05-24 23:05:43.156
+Login3 zalogowano || 2022-05-24 23:05:49.928
+Login3 wylogowano || 2022-05-24 23:05:58.5
+Login3 zalogowano || 2022-05-24 23:06:27.936
+Login3 wylogowano || 2022-05-24 23:06:31.399
+Login3 zalogowano || 2022-05-24 23:07:42.351
+Login3 utworzyl nowy projekt o nazwie P4 || 2022-05-24 23:07:53.818
+Login3 dodał komentarz do projektu : P4 || 2022-05-24 23:07:57.791
+Login3 zmienił swoj komentarz || 2022-05-24 23:08:16.837
+Login3 zmienił status projektu P3 z Zaplanowany na Zakonczony || 2022-05-24 23:08:18.864
+Login3 wylogowano || 2022-05-24 23:08:33.276
+Login zalogowano || 2022-05-24 23:08:34.087
+Login wylogowano || 2022-05-24 23:08:37.731
+Login3 zalogowano || 2022-05-24 23:08:39.664
+Login3 zmienił swoj komentarz || 2022-05-24 23:08:50.964
+Login3 wylogowano || 2022-05-24 23:08:57.983
+Login3 zalogowano || 2022-05-24 23:13:20.728
+Login3 utworzyl nowy projekt o nazwie P5 || 2022-05-24 23:13:42.099
+Login3 dodał komentarz do projektu : P5 || 2022-05-24 23:13:49.115
+Login3 zmienił swoj komentarz || 2022-05-24 23:14:27.94
+Login3 zmienił pracownikow projektu P5 || 2022-05-24 23:14:27.947
+Login3 wylogowano || 2022-05-24 23:14:34.416
+Login zalogowano || 2022-05-24 23:14:35.666
+Login zalogowano || 2022-05-24 23:14:43.505
+Login wylogowano || 2022-05-24 23:15:06.465
+Login3 zalogowano || 2022-05-24 23:15:55.544
+Login3 zmienił status projektu P1 z Zakonczony na Aktywny || 2022-05-24 23:16:01.451
+Login3 zmienił status projektu P2 z Zakonczony na Zaplanowany || 2022-05-24 23:16:05.101
+Login3 zmienił status projektu P1 z Aktywny na Zaplanowany || 2022-05-24 23:16:05.733
+Login3 zmienił swoj komentarz || 2022-05-24 23:16:05.739
+Login3 zmienił pracownikow projektu P1 || 2022-05-24 23:16:05.748
+Login3 zmienił status projektu P4 z Zakonczony na Zaplanowany || 2022-05-24 23:16:10.955
+Login3 zmienił swoj komentarz || 2022-05-24 23:16:11.571
+Login3 zmienił swoj komentarz || 2022-05-24 23:16:12.491
+Login3 wylogowano || 2022-05-24 23:16:16.531
+Login zalogowano || 2022-05-24 23:16:54.287
+Login wylogowano || 2022-05-24 23:17:18.455
+Login3 zalogowano || 2022-05-24 23:17:20.522
+Login3 zmienił pracownikow projektu P2 || 2022-05-24 23:17:26.773
+Login3 zmienił status projektu P3 z Zakonczony na Zaplanowany || 2022-05-24 23:17:28.389
+Login3 zmienił pracownikow projektu P4 || 2022-05-24 23:17:31.06
+Login3 wylogowano || 2022-05-24 23:17:33.506
+Login zalogowano || 2022-05-24 23:17:34.289
+Login wylogowano || 2022-05-24 23:18:03.171
+Login zalogowano || 2022-05-24 23:18:04.075
+Login wylogowano || 2022-05-24 23:18:06.556
+Login zalogowano || 2022-05-24 23:18:13.039
+Login wylogowano || 2022-05-24 23:19:52.59
+Login zalogowano || 2022-05-24 23:19:57.987
+Login zalogowano || 2022-05-24 23:22:15.997
+Login zalogowano || 2022-05-24 23:23:21.213
+Login wylogowano || 2022-05-24 23:23:37.7
+Login3 zalogowano || 2022-05-24 23:23:39.206
+Login3 zmienił status projektu P1 z Zaplanowany na Aktywny || 2022-05-24 23:23:43.916
+Login3 zmienił status projektu P2 z Zaplanowany na Aktywny || 2022-05-24 23:23:44.548
+Login3 zmienił pracownikow projektu P2 || 2022-05-24 23:23:44.554
+Login3 zmienił status projektu P3 z Zaplanowany na Aktywny || 2022-05-24 23:23:46.8
+Login zalogowano || 2022-05-24 23:27:17.19
+Login zmienił status projektu P3 z Aktywny na Zakonczony || 2022-05-24 23:27:28.341
+Login wylogowano || 2022-05-24 23:27:40.356
+Login3 zalogowano || 2022-05-24 23:27:43.303
+Login3 zmienił status projektu P1 z Aktywny na Zakonczony || 2022-05-24 23:27:55.117
+Login3 zmienił status projektu P1 z Zakonczony na Aktywny || 2022-05-24 23:28:14.015
+Login3 zmienił status projektu P1 z Aktywny na Zaplanowany || 2022-05-24 23:28:40.817
+Login3 zmienił status projektu P3 z Zakonczony na Zaplanowany || 2022-05-24 23:28:59.311
+Login3 nieudana próba logowania || 2022-05-24 23:30:58.235
+Login3 zalogowano || 2022-05-24 23:30:58.608
+Login3 zmienił status projektu P1 z Zaplanowany na Zakonczony || 2022-05-24 23:31:06.156
+Login3 zmienił status projektu P2 z Aktywny na Zaplanowany || 2022-05-24 23:31:18.077
+Login3 zmienił status projektu P3 z Zaplanowany na Zakonczony || 2022-05-24 23:31:22.875
+Login3 zmienił status projektu P4 z Zaplanowany na Aktywny || 2022-05-24 23:31:36.814
+Login3 zmienił status projektu P1 z Zakonczony na Aktywny || 2022-05-24 23:31:51.097
+Login3 zmienił status projektu P2 z Zaplanowany na Zakonczony || 2022-05-24 23:32:01.115
+Login3 zmienił status projektu P3 z Zakonczony na Zaplanowany || 2022-05-24 23:32:09.01
+Login3 zmienił status projektu P4 z Aktywny na Zakonczony || 2022-05-24 23:32:23.987
+Login3 zmienił pracownikow projektu P1 || 2022-05-24 23:32:44.235
+Login zalogowano || 2022-05-24 23:37:04.149
+Login wylogowano || 2022-05-24 23:37:09.686
+Login zalogowano || 2022-05-24 23:37:55.767
+Login wylogowano || 2022-05-24 23:37:58.904
+Login3 zalogowano || 2022-05-24 23:38:17.104
+Login zalogowano || 2022-05-24 23:38:56.188
+Login wylogowano || 2022-05-24 23:39:05.058
+Login3 zalogowano || 2022-05-24 23:39:06.296
+Login zalogowano || 2022-05-24 23:42:05.631
+Login zalogowano || 2022-05-24 23:45:01.149
+Login wylogowano || 2022-05-24 23:45:09.644
+Login3 zalogowano || 2022-05-24 23:45:21.404
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:45:24.088
+Login3 wylogowano || 2022-05-24 23:45:41.646
+Login zalogowano || 2022-05-24 23:45:42.535
+Login3 zalogowano || 2022-05-24 23:45:52.253
+Login3 utworzyl nowy projekt o nazwie P3 || 2022-05-24 23:46:11.599
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:46:20.568
+Login3 zalogowano || 2022-05-24 23:48:38.383
+Login3 zmienił pracownikow projektu P4 || 2022-05-24 23:48:44.257
+Login3 wylogowano || 2022-05-24 23:48:58.449
+Login zalogowano || 2022-05-24 23:49:00.502
+Login3 zalogowano || 2022-05-24 23:51:14.144
+Login3 utworzyl nowy projekt o nazwie P3 || 2022-05-24 23:51:22.539
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:51:41.339
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:52:08.762
+Login3 zalogowano || 2022-05-24 23:53:50.686
+Login3 utworzyl nowy projekt o nazwie P3 || 2022-05-24 23:53:57.787
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:54:00.928
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:54:08.024
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:54:11.156
+Login3 zalogowano || 2022-05-24 23:54:42.784
+Login3 utworzyl nowy projekt o nazwie P3 || 2022-05-24 23:54:49.733
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:54:52.972
+Login3 zmienił pracownikow projektu P3 || 2022-05-24 23:56:09.619
+Login3 dodał komentarz do projektu : P3 || 2022-05-24 23:56:12.081
+Login3 zalogowano || 2022-05-24 23:59:14.202
+Login3 utworzyl nowy projekt o nazwie P4 || 2022-05-24 23:59:30.076
+Login3 dodał komentarz do projektu : P4 || 2022-05-24 23:59:36.841
+Login3 wylogowano || 2022-05-25 00:02:50.498
+Login3 zalogowano || 2022-05-25 00:03:01.225
+Login3 utworzyl nowy projekt o nazwie P5 || 2022-05-25 00:03:13.794
+Login3 dodał komentarz do projektu : P5 || 2022-05-25 00:03:17.446
+Login3 wylogowano || 2022-05-25 00:03:52.593
+Login3 zalogowano || 2022-05-25 00:04:01.229
+Login3 utworzyl nowy projekt o nazwie P6 || 2022-05-25 00:04:27.968
+Login3 dodał komentarz do projektu : P6 || 2022-05-25 00:04:32.112
+Login3 wylogowano || 2022-05-25 00:04:50.664
+Login3 zalogowano || 2022-05-25 00:05:35.946
+Login3 utworzyl nowy projekt o nazwie P7 || 2022-05-25 00:05:44.512
+Login3 dodał komentarz do projektu : P7 || 2022-05-25 00:05:47.029
+Login3 zmienił swoj komentarz || 2022-05-25 00:05:49.524
+Login3 zmienił pracownikow projektu P7 || 2022-05-25 00:05:49.529
+Login3 wylogowano || 2022-05-25 00:05:57.865
+Login3 zalogowano || 2022-05-25 00:06:00.466
+Login3 wylogowano || 2022-05-25 00:12:17.692
+Login zalogowano || 2022-05-25 00:12:23.42
+Login wylogowano || 2022-05-25 00:12:25.008
+Login3 zalogowano || 2022-05-25 00:12:26.481
+Login3 utworzyl nowy projekt o nazwie P8 || 2022-05-25 00:12:43.586
+Login3 dodał komentarz do projektu : P8 || 2022-05-25 00:12:47.623
+Login3 zmienił swoj komentarz || 2022-05-25 00:12:51.297
+Login3 zmienił pracownikow projektu P8 || 2022-05-25 00:12:51.303
+Login3 wylogowano || 2022-05-25 00:13:04.754
+Login3 zalogowano || 2022-05-25 00:14:46.306
+Login3 wylogowano || 2022-05-25 00:15:07.485
+Login3 zalogowano || 2022-05-25 00:18:36.654
+Login3 wylogowano || 2022-05-25 00:20:08.012
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-25 00:20:28.12
+Login3 zalogowano || 2022-05-25 00:20:30.187
+Login3 zmienił pracownikow projektu P4 || 2022-05-25 00:21:21.898
+Login3 wylogowano || 2022-05-25 00:22:38.581
+Login zalogowano || 2022-05-25 00:28:08.493
+Login wylogowano || 2022-05-25 00:28:10.779
+Login3 zalogowano || 2022-05-25 00:28:12.041
+Login3 wylogowano || 2022-05-25 00:28:23.567
+Login3 zalogowano || 2022-05-25 00:28:40.396
+Login3 wylogowano || 2022-05-25 00:28:42.749
+Login3 zalogowano || 2022-05-25 00:29:08.618
+Login3 wylogowano || 2022-05-25 00:29:45.239
+Login zalogowano || 2022-05-25 00:29:46.849
+Login wylogowano || 2022-05-25 00:29:52.071
+Login2 zalogowano || 2022-05-25 00:29:54.836
+Login2 wylogowano || 2022-05-25 00:29:56.337
+Login3 zalogowano || 2022-05-25 00:29:57.449
+Login3 wylogowano || 2022-05-25 00:30:00.067
+Login zalogowano || 2022-05-25 00:30:09.779
+Login wylogowano || 2022-05-25 00:30:14.008
+Login3 zalogowano || 2022-05-25 00:30:15.68
+Login3 wylogowano || 2022-05-25 00:30:18.669
+Login zalogowano || 2022-05-25 00:30:57.256
+Login wylogowano || 2022-05-25 00:31:00.687
+Login zalogowano || 2022-05-25 00:31:01.548
+Login wylogowano || 2022-05-25 00:31:05.392
+Login zalogowano || 2022-05-25 00:31:06.253
+Login wylogowano || 2022-05-25 00:31:09.017
+Login zalogowano || 2022-05-25 00:31:19.449
+Login wylogowano || 2022-05-25 00:31:20.85
+Login zalogowano || 2022-05-25 00:31:21.705
+Login wylogowano || 2022-05-25 00:31:23.319
+Login zalogowano || 2022-05-25 00:31:24.08
+Login wylogowano || 2022-05-25 00:31:25.316
+Login zalogowano || 2022-05-25 00:31:26.047
+Login wylogowano || 2022-05-25 00:31:27.439
+Login2 zalogowano || 2022-05-25 00:31:29.461
+Login2 wylogowano || 2022-05-25 00:31:30.999
+Login zalogowano || 2022-05-25 00:31:41.287
+Login wylogowano || 2022-05-25 00:31:45.113
+Login zalogowano || 2022-05-25 00:31:45.974
+Login wylogowano || 2022-05-25 00:31:47.655
+Login zalogowano || 2022-05-25 00:31:48.728
+Login wylogowano || 2022-05-25 00:31:50.279
+Login2 zalogowano || 2022-05-25 00:31:51.55
+Login2 wylogowano || 2022-05-25 00:31:53.031
+Login zalogowano || 2022-05-25 00:31:53.91
+Login wylogowano || 2022-05-25 00:31:55.358
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-25 00:31:59.201
+Login zalogowano || 2022-05-25 00:32:03.091
+Login wylogowano || 2022-05-25 00:32:04.48
+Login3 zalogowano || 2022-05-25 00:32:06.16
+Login3 wylogowano || 2022-05-25 00:32:09.037
+Login zalogowano || 2022-05-25 00:32:11.427
+Login wylogowano || 2022-05-25 00:32:25.955
+Login zalogowano || 2022-05-25 00:32:26.746
+Login wylogowano || 2022-05-25 00:32:28.531
+Login2 zalogowano || 2022-05-25 00:32:30.238
+Login2 wylogowano || 2022-05-25 00:32:31.785
+Login3 zalogowano || 2022-05-25 00:32:33.171
+Login3 wylogowano || 2022-05-25 00:32:34.896
+Login zalogowano || 2022-05-25 00:32:35.66
+Login wylogowano || 2022-05-25 00:32:37.776
+Login zalogowano || 2022-05-25 00:33:03.798
+Login wylogowano || 2022-05-25 00:33:05.204
+Login zalogowano || 2022-05-25 00:33:05.881
+Login wylogowano || 2022-05-25 00:33:07.211
+Login2 zalogowano || 2022-05-25 00:33:08.25
+Login2 wylogowano || 2022-05-25 00:33:09.517
+Login zalogowano || 2022-05-25 00:33:10.552
+Login wylogowano || 2022-05-25 00:33:11.7
+Login3 zalogowano || 2022-05-25 00:33:12.652
+Login3 wylogowano || 2022-05-25 00:33:14.411
+Login zalogowano || 2022-05-25 00:33:15.111
+Login wylogowano || 2022-05-25 00:33:17.773
+Login zalogowano || 2022-05-25 00:33:18.409
+Login wylogowano || 2022-05-25 00:33:20.858
+Login zalogowano || 2022-05-25 00:33:29.806
+Login wylogowano || 2022-05-25 00:33:31.569
+Login zalogowano || 2022-05-25 00:33:32.265
+Login wylogowano || 2022-05-25 00:33:35.422
+Login zalogowano || 2022-05-25 00:46:41.848
+Login wylogowano || 2022-05-25 00:46:47.12
+Login zalogowano || 2022-05-25 00:46:48.705
+Login wylogowano || 2022-05-25 00:46:53.434
+Login zalogowano || 2022-05-25 00:49:12.787
+Login wylogowano || 2022-05-25 00:49:14.978
+Login zalogowano || 2022-05-25 00:49:15.919
+Login wylogowano || 2022-05-25 00:49:22.442
+Login zalogowano || 2022-05-25 00:49:34.967
+Login wylogowano || 2022-05-25 00:49:39.46
+Login zalogowano || 2022-05-25 00:49:47.474
+Login wylogowano || 2022-05-25 00:49:55.797
+Login zalogowano || 2022-05-25 00:50:07.671
+Login wylogowano || 2022-05-25 00:50:27.375
+Login zalogowano || 2022-05-25 00:51:15.839
+Login wylogowano || 2022-05-25 00:51:24.776
+Login zalogowano || 2022-05-25 00:51:26.058
+Login wylogowano || 2022-05-25 00:51:29.95
+Login zalogowano || 2022-05-25 00:54:42.48
+Login wylogowano || 2022-05-25 00:54:50.226
+Login zalogowano || 2022-05-25 00:54:58.779
+Login zalogowano || 2022-05-25 00:56:33.626
+Login wylogowano || 2022-05-25 00:56:36.653
+Login zalogowano || 2022-05-25 00:56:37.494
+Login wylogowano || 2022-05-25 00:56:40.559
+Login zalogowano || 2022-05-25 00:56:43.073
+Login wylogowano || 2022-05-25 00:56:44.803
+Login2 zalogowano || 2022-05-25 00:56:46.331
+Login2 wylogowano || 2022-05-25 00:56:49.461
+Login3 zalogowano || 2022-05-25 00:56:50.846
+Login3 wylogowano || 2022-05-25 00:56:56.115
+Login zalogowano || 2022-05-25 00:56:57.089
+Login wylogowano || 2022-05-25 00:56:58.389
+Login zalogowano || 2022-05-25 00:57:12.836
+Login wylogowano || 2022-05-25 00:57:15.028
+Login zalogowano || 2022-05-25 00:57:16.008
+Login wylogowano || 2022-05-25 00:57:17.357
+Login3 zalogowano || 2022-05-25 00:57:18.539
+Login3 wylogowano || 2022-05-25 00:57:20.274
+Login zalogowano || 2022-05-25 00:57:21.255
+Login wylogowano || 2022-05-25 00:57:24.147
+Login3 zalogowano || 2022-05-25 00:57:25.287
+Login3 wylogowano || 2022-05-25 00:57:27.677
+Login2 zalogowano || 2022-05-25 00:57:28.941
+Login2 wylogowano || 2022-05-25 00:57:30.953
+Login3 zalogowano || 2022-05-25 00:57:32.317
+Login3 wylogowano || 2022-05-25 00:57:38.974
+Login3 zalogowano || 2022-05-25 00:57:50.739
+Login3 wylogowano || 2022-05-25 00:57:56.316
+Login zalogowano || 2022-05-25 00:58:05.636
+Login wylogowano || 2022-05-25 00:58:07.669
+Login3 zalogowano || 2022-05-25 00:58:09.161
+Login3 zalogowano || 2022-05-25 01:06:46.969
+Login3 wylogowano || 2022-05-25 01:06:49.039
+Login3 zalogowano || 2022-05-25 01:07:03.949
+Login zalogowano || 2022-05-25 01:13:16.116
+Login zalogowano || 2022-05-25 01:13:26.8
+Login wylogowano || 2022-05-25 01:13:28.865
+Login3 zalogowano || 2022-05-25 01:13:30.518
+Login3 wylogowano || 2022-05-25 01:13:42.1
+Login3 zalogowano || 2022-05-25 01:15:04.537
+Login3 wylogowano || 2022-05-25 01:15:09.689
+Login3 zalogowano || 2022-05-25 01:15:19.596
+Login3 wylogowano || 2022-05-25 01:15:23.727
+Login zalogowano || 2022-05-25 01:16:50.512
+Login wylogowano || 2022-05-25 01:16:52.418
+Login3 zalogowano || 2022-05-25 01:16:53.411
+Login3 wylogowano || 2022-05-25 01:17:00.909
+Login3 zalogowano || 2022-05-25 01:17:46.562
+Login3 wylogowano || 2022-05-25 01:17:48.731
+Login3 zalogowano || 2022-05-25 01:18:04.04
+Login3 wylogowano || 2022-05-25 01:18:06.633
+Login3 zalogowano || 2022-05-25 01:18:50.467
+Login3 wylogowano || 2022-05-25 01:18:55.706
+Login3 zalogowano || 2022-05-25 01:27:16.0
+Login3 wylogowano || 2022-05-25 01:27:35.033
+Login zalogowano || 2022-05-25 01:27:35.89
+Login wylogowano || 2022-05-25 01:27:38.13
+Login3 zalogowano || 2022-05-25 01:32:25.967
+Login3 wylogowano || 2022-05-25 01:32:38.398
+Login3 zalogowano || 2022-05-25 01:33:31.665
+Login3 wylogowano || 2022-05-25 01:33:52.869
+Login3 zalogowano || 2022-05-25 01:36:05.688
+Login3 wylogowano || 2022-05-25 01:36:43.577
+Login3 zalogowano || 2022-05-25 01:37:03.211
+Login3 wylogowano || 2022-05-25 01:37:07.013
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-05-26 13:32:05.094
+Login nieudana próba logowania || 2022-05-26 13:32:09.636
+Login zalogowano || 2022-05-26 13:32:11.384
+Login wylogowano || 2022-05-26 13:32:20.574
+Login3 zalogowano || 2022-05-26 13:32:22.73
+Login3 wylogowano || 2022-05-26 13:32:32.958
+Login zalogowano || 2022-05-27 17:31:27.844
+Login dodał komentarz do projektu : P4 || 2022-05-27 17:31:50.449
+Login zmienił swoj komentarz || 2022-05-27 17:32:15.277
+Login zmienił pracownikow projektu P4 || 2022-05-27 17:32:18.561
+Login zmienił swoj komentarz || 2022-05-27 17:32:46.043
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:32:50.131
+Login wylogowano || 2022-05-27 17:33:06.115
+Login zalogowano || 2022-05-27 17:33:11.451
+Login zmienił swoj komentarz || 2022-05-27 17:33:23.891
+Login zmienił pracownikow projektu P4 || 2022-05-27 17:33:28.035
+Login zmienił swoj komentarz || 2022-05-27 17:33:46.532
+Login zmienił pracownikow projektu P4 || 2022-05-27 17:33:46.561
+Login wylogowano || 2022-05-27 17:33:51.793
+Login3 zalogowano || 2022-05-27 17:33:53.66
+Login3 wylogowano || 2022-05-27 17:34:16.586
+Login3 zalogowano || 2022-05-27 17:34:18.768
+Login3 utworzyl nowy projekt o nazwie P10 || 2022-05-27 17:34:33.199
+Login3 dodał komentarz do projektu : P10 || 2022-05-27 17:34:42.991
+Login3 zmienił swoj komentarz || 2022-05-27 17:34:46.978
+Login3 zmienił pracownikow projektu P10 || 2022-05-27 17:34:47.025
+Login3 zmienił swoj komentarz || 2022-05-27 17:34:55.13
+Login3 zmienił pracownikow projektu P10 || 2022-05-27 17:34:55.176
+Login3 wylogowano || 2022-05-27 17:35:03.401
+Login zalogowano || 2022-05-27 17:35:22.898
+Login zmienił status projektu P6 z Zaplanowany na Aktywny || 2022-05-27 17:35:28.012
+Login zmienił pracownikow projektu P6 || 2022-05-27 17:35:31.74
+Login wylogowano || 2022-05-27 17:35:46.905
+Login zalogowano || 2022-05-27 17:35:59.961
+Login zalogowano || 2022-05-27 17:38:30.765
+Login zmienił swoj komentarz || 2022-05-27 17:38:47.274
+Login zmienił pracownikow projektu P4 || 2022-05-27 17:38:50.144
+Login zalogowano || 2022-05-27 17:42:58.151
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:43:14.912
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:43:19.067
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:43:57.917
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:43:57.963
+Login wylogowano || 2022-05-27 17:44:06.037
+Login zalogowano || 2022-05-27 17:44:27.077
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:44:41.101
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:44:45.161
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:45:00.008
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:45:16.261
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:45:20.368
+Login wylogowano || 2022-05-27 17:45:31.21
+Login zalogowano || 2022-05-27 17:46:15.091
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:46:42.509
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:46:46.511
+Login wylogowano || 2022-05-27 17:47:05.452
+Login zalogowano || 2022-05-27 17:50:16.487
+Login zalogowano || 2022-05-27 17:51:17.518
+Login wylogowano || 2022-05-27 17:51:28.42
+Login zalogowano || 2022-05-27 17:51:29.813
+Login wylogowano || 2022-05-27 17:51:44.326
+Login zalogowano || 2022-05-27 17:51:56.326
+Login zalogowano || 2022-05-27 17:52:34.39
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:52:41.117
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:52:45.116
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:52:56.999
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:52:57.077
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:53:08.063
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:53:12.091
+Login zalogowano || 2022-05-27 17:55:50.188
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:55:58.925
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:56:03.004
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:56:20.931
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:56:21.011
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 17:56:27.361
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:56:31.377
+Login zmienił swoj komentarz w projekcie P4 || 2022-05-27 17:56:49.932
+Login zmienił pracownikow projektu P4 || 2022-05-27 17:56:49.993
+Login zalogowano || 2022-05-27 17:57:38.283
+Login zmienił pracownikow projektu P1 || 2022-05-27 17:57:46.291
+Login wylogowano || 2022-05-27 17:57:53.162
+Login zalogowano || 2022-05-27 17:58:14.371
+Login wylogowano || 2022-05-27 17:58:29.202
+Login zalogowano || 2022-05-27 18:01:51.617
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 18:01:59.209
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:02:03.223
+Login wylogowano || 2022-05-27 18:02:22.481
+Login zalogowano || 2022-05-27 18:07:33.831
+Login wylogowano || 2022-05-27 18:07:57.278
+Login zalogowano || 2022-05-27 18:09:14.799
+Login wylogowano || 2022-05-27 18:09:42.663
+Login zalogowano || 2022-05-27 18:15:03.845
+Login wylogowano || 2022-05-27 18:15:15.644
+Login zalogowano || 2022-05-27 18:15:59.988
+Login zmienił swoj komentarz w projekcie P1 || 2022-05-27 18:16:25.524
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:16:29.575
+Login wylogowano || 2022-05-27 18:16:36.979
+Login zalogowano || 2022-05-27 18:20:17.543
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:20:19.215
+Login zalogowano || 2022-05-27 18:22:10.269
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:22:11.773
+Login zalogowano || 2022-05-27 18:24:33.771
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:24:35.628
+Login wylogowano || 2022-05-27 18:24:42.931
+Login zalogowano || 2022-05-27 18:25:22.411
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:25:24.314
+Login wylogowano || 2022-05-27 18:26:14.65
+Login zalogowano || 2022-05-27 18:26:18.348
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:26:19.674
+Login zalogowano || 2022-05-27 18:51:34.543
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:51:36.344
+Login zalogowano || 2022-05-27 18:57:48.197
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:57:49.614
+Login wylogowano || 2022-05-27 18:57:56.295
+Login zalogowano || 2022-05-27 18:59:14.799
+Login zmienił pracownikow projektu P1 || 2022-05-27 18:59:16.537
+Login wylogowano || 2022-05-27 18:59:40.47
+Login zalogowano || 2022-05-27 18:59:58.303
+Login zmienił pracownikow projektu P1 || 2022-05-27 19:00:00.119
+Login wylogowano || 2022-05-27 19:00:13.824
+Login zalogowano || 2022-06-02 21:22:06.17
+Login zmienił pracownikow projektu P1 || 2022-06-02 21:22:08.237
+Login wylogowano || 2022-06-02 21:22:18.567
+Login zalogowano || 2022-06-02 21:22:34.605
+Login zmienił pracownikow projektu P1 || 2022-06-02 21:22:36.646
+Login wylogowano || 2022-06-02 21:22:44.293
+Login zalogowano || 2022-06-02 21:28:09.496
+Login wylogowano || 2022-06-02 21:28:40.331
+Login3 zalogowano || 2022-06-02 21:28:42.386
+Login3 wylogowano || 2022-06-02 21:29:18.105
+Login zalogowano || 2022-06-02 21:43:43.874
+Login wylogowano || 2022-06-02 21:43:49.642
+Login3 zalogowano || 2022-06-02 21:43:51.634
+Login3 wylogowano || 2022-06-02 21:44:18.915
+Login zalogowano || 2022-06-02 22:03:46.872
+Login wylogowano || 2022-06-02 22:03:50.803
+Login3 zalogowano || 2022-06-02 22:03:55.825
+Login3 wylogowano || 2022-06-02 22:04:39.007
+Login3 zalogowano || 2022-06-02 22:04:47.074
+Login3 zalogowano || 2022-06-02 22:05:27.187
+Login zalogowano || 2022-06-02 22:11:02.642
+Login wylogowano || 2022-06-02 22:11:08.706
+Login3 zalogowano || 2022-06-02 22:11:10.167
+Login3 zmienił pracownikow projektu P6 || 2022-06-02 22:11:12.905
+Login3 zmienił pracownikow projektu P7 || 2022-06-02 22:11:23.052
+Login3 wylogowano || 2022-06-02 22:11:43.71
+Login3 zalogowano || 2022-06-02 22:12:26.403
+Login3 zmienił pracownikow projektu P6 || 2022-06-02 22:12:29.035
+Login3 wylogowano || 2022-06-02 22:13:42.226
+Login3 zalogowano || 2022-06-02 22:13:46.213
+Login3 zalogowano || 2022-06-02 22:14:49.989
+Login3 zmienił pracownikow projektu P6 || 2022-06-02 22:14:53.187
+Login3 zmienił pracownikow projektu P6 || 2022-06-02 22:14:57.693
+Login3 wylogowano || 2022-06-02 22:15:10.3
+Login3 zalogowano || 2022-06-02 22:26:29.052
+Login3 wylogowano || 2022-06-02 22:26:58.549
+Login3 zalogowano || 2022-06-02 22:30:08.958
+Login3 wylogowano || 2022-06-02 22:30:40.174
+Login3 zalogowano || 2022-06-02 22:31:33.58
+Login3 wylogowano || 2022-06-02 22:32:21.02
+Login zalogowano || 2022-06-02 22:33:25.567
+Login wylogowano || 2022-06-02 22:33:26.781
+Login3 zalogowano || 2022-06-02 22:33:27.865
+Login3 wylogowano || 2022-06-02 22:33:39.046
+Login3 zalogowano || 2022-06-02 22:34:00.508
+Login3 zalogowano || 2022-06-02 22:34:34.244
+Login3 wylogowano || 2022-06-02 22:34:44.924
+Login zalogowano || 2022-06-02 22:40:19.806
+Login wylogowano || 2022-06-02 22:40:27.223
+Login3 zalogowano || 2022-06-02 22:40:28.516
+Login3 wylogowano || 2022-06-02 22:41:04.385
+Login3 zalogowano || 2022-06-02 22:41:26.972
+Login3 wylogowano || 2022-06-02 22:41:59.291
+Login3 zalogowano || 2022-06-02 22:43:40.859
+Login3 wylogowano || 2022-06-02 22:43:50.811
+Login3 zalogowano || 2022-06-02 22:44:22.736
+Login3 wylogowano || 2022-06-02 22:44:28.602
+Login3 zalogowano || 2022-06-02 22:45:22.229
+Login3 wylogowano || 2022-06-02 22:45:27.915
+Login3 zalogowano || 2022-06-02 22:45:38.395
+Login3 wylogowano || 2022-06-02 22:45:54.48
+Login3 zalogowano || 2022-06-02 22:47:16.323
+Login3 wylogowano || 2022-06-02 22:47:19.391
+Login3 zalogowano || 2022-06-02 22:48:53.983
+Login3 wylogowano || 2022-06-02 22:49:14.279
+Login zalogowano || 2022-06-02 22:50:10.641
+Login wylogowano || 2022-06-02 22:50:15.73
+Login3 zalogowano || 2022-06-02 22:50:16.562
+Login3 wylogowano || 2022-06-02 22:50:29.115
+Login3 zalogowano || 2022-06-02 23:21:26.223
+Login3 wylogowano || 2022-06-02 23:21:39.379
+Login3 zalogowano || 2022-06-02 23:23:07.636
+Login3 wylogowano || 2022-06-02 23:23:21.205
+Login zalogowano || 2022-06-02 23:31:09.91
+Login wylogowano || 2022-06-02 23:31:17.237
+Login zalogowano || 2022-06-02 23:31:49.844
+Login wylogowano || 2022-06-02 23:31:56.0
+Login zalogowano || 2022-06-02 23:33:12.845
+Login wylogowano || 2022-06-02 23:33:27.98
+Login zalogowano || 2022-06-02 23:34:20.888
+Login wylogowano || 2022-06-02 23:34:39.971
+Login zalogowano || 2022-06-02 23:34:44.271
+Login wylogowano || 2022-06-02 23:34:59.183
+Login zalogowano || 2022-06-02 23:35:23.371
+Login zalogowano || 2022-06-02 23:36:27.883
+Login wylogowano || 2022-06-02 23:36:51.489
+Login zalogowano || 2022-06-02 23:36:56.043
+Login wylogowano || 2022-06-02 23:38:00.046
+Login zalogowano || 2022-06-02 23:38:01.041
+Login wylogowano || 2022-06-02 23:38:09.644
+Login zalogowano || 2022-06-02 23:41:17.067
+Login wylogowano || 2022-06-02 23:41:41.43
+Login zalogowano || 2022-06-02 23:41:59.859
+Login wylogowano || 2022-06-02 23:42:15.169
+Login3 zalogowano || 2022-06-02 23:42:27.986
+Login3 wylogowano || 2022-06-02 23:42:42.762
+Login zalogowano || 2022-06-02 23:43:39.081
+Login wylogowano || 2022-06-02 23:43:44.369
+Login3 zalogowano || 2022-06-02 23:43:46.229
+Login3 wylogowano || 2022-06-02 23:44:08.274
+Login2 zalogowano || 2022-06-02 23:44:09.77
+Login2 wylogowano || 2022-06-02 23:44:17.221
+Login5 zalogowano || 2022-06-02 23:44:18.85
+Login5 wylogowano || 2022-06-02 23:44:25.111
+Login zalogowano || 2022-06-02 23:46:12.151
+Login wylogowano || 2022-06-02 23:46:24.267
+Login zalogowano || 2022-06-03 00:09:27.63
+Login wylogowano || 2022-06-03 00:09:38.936
+Login3 zalogowano || 2022-06-03 00:09:51.046
+Login3 wylogowano || 2022-06-03 00:09:58.851
+Login zalogowano || 2022-06-03 00:22:46.757
+Login zmienił swoje dane || 2022-06-03 00:22:54.399
+Login wylogowano || 2022-06-03 00:23:06.706
+Login zalogowano || 2022-06-03 00:23:07.612
+Login zalogowano || 2022-06-03 00:24:27.295
+Login zmienił swoje dane || 2022-06-03 00:24:38.759
+Login wylogowano || 2022-06-03 00:24:48.138
+Login zalogowano || 2022-06-03 00:24:49.038
+Login zalogowano || 2022-06-03 00:26:00.558
+Login zmienił swoje dane || 2022-06-03 00:26:08.478
+Login wylogowano || 2022-06-03 00:26:26.118
+Login zalogowano || 2022-06-03 00:28:54.099
+Login zmienił swoje dane || 2022-06-03 00:29:03.212
+Login wylogowano || 2022-06-03 00:29:36.019
+Login3 zalogowano || 2022-06-03 00:29:37.384
+Login3 wylogowano || 2022-06-03 00:29:54.749
+Login3 zalogowano || 2022-06-03 00:29:56.06
+Login3 wylogowano || 2022-06-03 00:30:31.076
+Login zalogowano || 2022-06-03 00:33:37.818
+Login wylogowano || 2022-06-03 00:33:41.936
+Login zalogowano || 2022-06-03 00:34:04.793
+Login zmienił swoje dane || 2022-06-03 00:34:12.691
+Login wylogowano || 2022-06-03 00:34:49.53
+Login zalogowano || 2022-06-03 00:34:50.378
+Login wylogowano || 2022-06-03 00:35:21.329
+Login zalogowano || 2022-06-03 00:38:06.12
+Login zmienił swoje dane || 2022-06-03 00:38:11.191
+Login zalogowano || 2022-06-03 00:38:49.91
+Login zmienił swoje dane || 2022-06-03 00:38:53.507
+Login zalogowano || 2022-06-03 00:40:59.657
+Login zmienił swoje dane || 2022-06-03 00:41:26.024
+Login zalogowano || 2022-06-03 00:43:57.337
+Login zmienił swoje dane || 2022-06-03 00:44:04.682
+Login wylogowano || 2022-06-03 00:44:14.291
+Login zalogowano || 2022-06-03 00:45:13.516
+Login zmienił swoje dane || 2022-06-03 00:45:17.556
+Login wylogowano || 2022-06-03 00:45:18.973
+Login zalogowano || 2022-06-03 00:46:55.625
+Login zmienił swoje dane || 2022-06-03 00:47:01.778
+Login zalogowano || 2022-06-03 00:48:15.578
+Login zmienił swoje dane || 2022-06-03 00:48:21.91
+Login wylogowano || 2022-06-03 00:49:30.257
+Login3 zalogowano || 2022-06-03 00:52:46.881
+Login3 wylogowano || 2022-06-03 00:53:02.248
+Login zalogowano || 2022-06-03 01:25:05.947
+Login zmienił swoje dane || 2022-06-03 01:25:10.217
+Login wylogowano || 2022-06-03 01:25:19.203
+Login zalogowano || 2022-06-03 01:25:29.016
+Login zmienił swoje dane || 2022-06-03 01:25:36.404
+Login wylogowano || 2022-06-03 01:25:37.711
+Login nieudana próba logowania || 2022-06-03 01:25:39.387
+Login zalogowano || 2022-06-03 01:25:40.791
+Login zmienił swoje dane || 2022-06-03 01:25:45.363
+Login wylogowano || 2022-06-03 01:25:46.764
+Login zalogowano || 2022-06-03 01:25:47.491
+Login wylogowano || 2022-06-03 01:25:48.277
+Login zalogowano || 2022-06-03 21:59:52.115
+Login wylogowano || 2022-06-03 21:59:55.933
+Login zalogowano || 2022-06-03 22:03:18.57
+Login wylogowano || 2022-06-03 22:03:23.862
+Login zalogowano || 2022-06-03 22:03:49.244
+Login wylogowano || 2022-06-03 22:03:52.351
+Login zalogowano || 2022-06-03 22:04:09.023
+Login wylogowano || 2022-06-03 22:04:17.8
+Login zalogowano || 2022-06-03 22:05:31.768
+Login wylogowano || 2022-06-03 22:05:35.116
+Login zalogowano || 2022-06-03 22:06:06.945
+Login wylogowano || 2022-06-03 22:06:10.35
+Login zalogowano || 2022-06-03 22:07:10.711
+Login wylogowano || 2022-06-03 22:07:14.003
+Niedana próba logowania niezarejestrowanego użytkownika || 2022-06-03 22:07:32.163
+Login zalogowano || 2022-06-03 22:07:33.517
+Login wylogowano || 2022-06-03 22:09:12.657
+Login zalogowano || 2022-06-03 22:09:23.561
+Login wylogowano || 2022-06-03 22:09:36.742
+Login zalogowano || 2022-06-03 22:13:01.62
+Login zaczal prace nad P1 || 2022-06-03 22:13:05.505
+Login zakończyl prace nad P1 || 2022-06-03 22:13:11.225
+Login zaczal prace nad P8 || 2022-06-03 22:13:15.204
+Login wylogowano || 2022-06-03 22:13:20.054
+Login zalogowano || 2022-06-03 22:14:58.461
+Login zaczal prace nad P1 || 2022-06-03 22:15:02.454
+Login wylogowano || 2022-06-03 22:15:12.67
+Login zalogowano || 2022-06-03 22:34:47.6
+Login wylogowano || 2022-06-03 22:34:57.82
+Login zalogowano || 2022-06-03 22:35:32.727
+Login wylogowano || 2022-06-03 22:35:36.722
+Login zalogowano || 2022-06-03 22:48:15.82
+Login wylogowano || 2022-06-03 22:48:49.789
+Login zalogowano || 2022-06-03 22:49:04.04
+Login wylogowano || 2022-06-03 22:50:08.225
+Login zalogowano || 2022-06-03 22:50:20.308
+Login wylogowano || 2022-06-03 22:51:20.416
+Login wylogowano || 2022-06-03 22:51:25.039
+Login wylogowano || 2022-06-03 22:51:26.181
+Login wylogowano || 2022-06-03 22:51:26.996
+Login wylogowano || 2022-06-03 22:51:27.618
+Login wylogowano || 2022-06-03 22:51:28.16
+Login wylogowano || 2022-06-03 22:51:28.681
+Login wylogowano || 2022-06-03 22:51:29.174
+Login wylogowano || 2022-06-03 22:51:29.69
+Login wylogowano || 2022-06-03 22:51:30.057
+Login wylogowano || 2022-06-03 22:51:30.266
+Login wylogowano || 2022-06-03 22:51:30.48
+Login wylogowano || 2022-06-03 22:51:30.688
+Login wylogowano || 2022-06-03 22:51:30.908
+Login wylogowano || 2022-06-03 22:51:31.149
+Login wylogowano || 2022-06-03 22:51:31.388
+Login wylogowano || 2022-06-03 22:51:31.636
+Login wylogowano || 2022-06-03 22:51:31.843
+Login wylogowano || 2022-06-03 22:51:32.058
+Login wylogowano || 2022-06-03 22:51:32.276
+Login wylogowano || 2022-06-03 22:51:32.553
+Login wylogowano || 2022-06-03 22:51:32.757
+Login wylogowano || 2022-06-03 22:51:32.941
+Login wylogowano || 2022-06-03 22:51:33.162
+Login wylogowano || 2022-06-03 22:51:33.376
+Login wylogowano || 2022-06-03 22:51:33.582
+Login wylogowano || 2022-06-03 22:51:33.82
+Login wylogowano || 2022-06-03 22:51:34.054
+Login wylogowano || 2022-06-03 22:51:34.301
+Login wylogowano || 2022-06-03 22:51:34.524
+Login wylogowano || 2022-06-03 22:51:34.767
+Login wylogowano || 2022-06-03 22:51:35.199
+Login wylogowano || 2022-06-03 22:51:35.652
+Login wylogowano || 2022-06-03 22:51:35.891
+Login wylogowano || 2022-06-03 22:51:36.347
+Login wylogowano || 2022-06-03 22:51:36.582
+Login wylogowano || 2022-06-03 22:51:37.212
+Login wylogowano || 2022-06-03 22:51:37.697
+Login wylogowano || 2022-06-03 22:51:40.329
+Login zalogowano || 2022-06-03 22:51:56.893
+Login wylogowano || 2022-06-03 22:52:56.975
+Login zalogowano || 2022-06-03 22:53:03.775
+Login wylogowano || 2022-06-03 22:53:23.005
+Login zalogowano || 2022-06-03 22:54:21.119
+Login wylogowano || 2022-06-03 22:54:40.506
+Login zalogowano || 2022-06-03 22:54:47.851
+Login wylogowano || 2022-06-03 22:55:12.729
+Login zalogowano || 2022-06-03 22:55:19.859
+Login wylogowano || 2022-06-03 22:55:25.944
+Login wylogowano || 2022-06-03 22:55:27.191
+Login wylogowano || 2022-06-03 22:55:27.96
+Login zalogowano || 2022-06-03 22:56:31.079
+Login wylogowano || 2022-06-03 22:56:33.451
+Login zalogowano || 2022-06-03 22:56:35.209
+Login wylogowano || 2022-06-03 22:56:42.243
+Login zalogowano || 2022-06-03 23:00:00.244
+Login zaczal prace nad P8 || 2022-06-03 23:00:09.033
+Login zakończyl prace nad P8 || 2022-06-03 23:00:12.827
+Login zakończyl prace nad P8 || 2022-06-03 23:00:15.266
+Login wylogowano || 2022-06-03 23:00:35.544
+Login zalogowano || 2022-06-03 23:00:40.037
+Login wylogowano || 2022-06-03 23:00:46.959
+Login zalogowano || 2022-06-03 23:01:30.353
+Login wylogowano || 2022-06-03 23:01:36.487
+Login zalogowano || 2022-06-03 23:02:21.801
+Login wylogowano || 2022-06-03 23:02:32.404
+Login zalogowano || 2022-06-03 23:02:34.73
+Login wylogowano || 2022-06-03 23:02:41.262
+Login zalogowano || 2022-06-03 23:03:08.035
+Login wylogowano || 2022-06-03 23:03:31.83
+Login zalogowano || 2022-06-03 23:04:23.101
+Login wylogowano || 2022-06-03 23:04:36.578
+Login zalogowano || 2022-06-03 23:06:20.169
+Login wylogowano || 2022-06-03 23:06:26.262
+Login zalogowano || 2022-06-03 23:06:31.201
+Login wylogowano || 2022-06-03 23:06:39.073
+Login3 zalogowano || 2022-06-03 23:06:43.68
+Login3 wylogowano || 2022-06-03 23:06:49.287
+Login zalogowano || 2022-06-03 23:07:15.582
+Login wylogowano || 2022-06-03 23:07:21.668
+Login zalogowano || 2022-06-03 23:07:47.916
+Login wylogowano || 2022-06-03 23:07:53.102
+Login zalogowano || 2022-06-03 23:08:23.403
+Login wylogowano || 2022-06-03 23:08:29.57
+Login zalogowano || 2022-06-03 23:45:36.685
+Login wylogowano || 2022-06-03 23:45:42.144
+Login zalogowano || 2022-06-03 23:48:06.628
+Login zaczal prace nad P1 || 2022-06-03 23:48:08.5
+Login wylogowano || 2022-06-03 23:48:10.327
+Login zalogowano || 2022-06-03 23:49:40.419
+Login zaczal prace nad P1 || 2022-06-03 23:49:42.075
+Login zakończyl prace nad P1 || 2022-06-03 23:49:44.023
+Login wylogowano || 2022-06-03 23:49:45.601
+Login3 zalogowano || 2022-06-07 20:19:28.452
+Login3 wylogowano || 2022-06-07 20:19:37.705
+Login3 zalogowano || 2022-06-07 20:20:26.321
+Login3 wylogowano || 2022-06-07 20:22:07.068
+Login zalogowano || 2022-06-23 01:16:04.212
+Login wylogowano || 2022-06-23 01:16:13.011
+Login zalogowano || 2022-06-23 01:17:12.368
+Login wylogowano || 2022-06-23 01:17:30.076
+Login3 zalogowano || 2022-06-23 01:17:32.425
+Login3 wylogowano || 2022-06-23 01:17:44.152
+Login zalogowano || 2024-02-29 21:36:43.665
+Login wylogowano || 2024-02-29 21:37:09.588
+Login zalogowano || 2024-03-12 19:10:02.885
+Login wylogowano || 2024-03-12 19:10:12.04

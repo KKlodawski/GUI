@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane fx:id="MainAddRecipePanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="500.0" style="-fx-background-color: orange; -fx-border-color: black; -fx-border-width: 3;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="P3.RecipeController">
+   <children>
+      <TextField fx:id="nameField" layoutX="226.0" layoutY="71.0" prefHeight="25.0" prefWidth="200.0" />
+      <Button fx:id="CancelButton" layoutX="250.0" layoutY="334.0" mnemonicParsing="false" onMouseClicked="#CancelAction" prefHeight="35.0" prefWidth="100.0" style="-fx-background-color: DARKORANGE; -fx-border-color: black;" text="Anuluj" />
+      <ListView fx:id="tableView" layoutX="226.0" layoutY="105.0" prefHeight="211.0" prefWidth="200.0" />
+      <Button fx:id="confirmButton" layoutX="126.0" layoutY="334.0" mnemonicParsing="false" onMouseClicked="#confirmAction" prefHeight="35.0" prefWidth="100.0" style="-fx-background-color: DARKORANGE; -fx-border-color: black;" text="Dodaj" />
+      <Label fx:id="textLabel" alignment="CENTER" layoutX="110.0" layoutY="11.0" prefHeight="55.0" prefWidth="281.0" text="Dodaj przepis">
+         <font>
+            <Font name="System Bold" size="38.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER_RIGHT" layoutX="76.0" layoutY="66.0" prefHeight="30.0" prefWidth="150.0" text="Nazwa:">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Label alignment="CENTER_RIGHT" layoutX="76.0" layoutY="105.0" prefHeight="30.0" prefWidth="150.0" text="Składniki:">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

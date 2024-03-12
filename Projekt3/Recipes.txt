@@ -1,0 +1,20 @@
+Ciasto|Banan|Jagody|Ciasto
+Kotlet z bekonem i brokułami|Bekon|Mieso|Brokul
+Kanapka z ogórkiem|Masło|Ogórek|Chleb
+Talerz z owocami|Banan|Jagody|Kiwi
+Wszystko co w lodówce|Sol|Banan|Bekon|Mieso|Brokul|Cytryna|Jagody|Kalmar|Kiwi|Oscypek|Ciasto|Masło|Ogórek|Chleb
+Słone oscypki maślane|Sol|Oscypek|Masło
+Ryba z dodatkami|Cytryna|Kalmar
+A|Bekon|Cytryna|Jagody|Kalmar|Kiwi
+B|Cytryna|Kalmar|Kiwi|Ciasto|Ogórek
+C|Banan|Cytryna|Kiwi|Ogórek|Chleb
+D|Sol|Bekon|Mieso|Cytryna
+E|Banan|Bekon|Brokul|Jagody
+F|Sol|Banan|Bekon|Mieso|Jagody
+G|Bekon|Brokul|Kiwi
+H|Banan|Mieso|Jagody
+I|Banan|Bekon|Cytryna
+J|Bekon|Mieso|Jagody|Kiwi|Masło
+K|Sol|Banan|Brokul|Kalmar
+L|Cytryna|Jagody|Kalmar|Kiwi|Oscypek|Ciasto|Masło|Ogórek|Chleb
+abced|Cytryna|Jagody|Kalmar|Oscypek|Ogórek

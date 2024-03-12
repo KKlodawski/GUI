@@ -1,0 +1,9 @@
+P2|Zakonczony|Login4|Login2|abc/Login3/2022-05-24 23:16:11.572|awd/Login/2022-05-24 00:57:01.426|
+P3|Zaplanowany|Login2|Login4|/Login3/2022-05-24 23:56:11.289|
+P5|Zaplanowany|Login2|Login4|/Login3/2022-05-25 00:03:16.717|
+P8|Zaplanowany|Login|Login2|awdefg/Login3/2022-05-25 00:12:51.297|
+P10|Aktywny|Login2|Login4|fffeee/Login3/2022-05-27 17:34:55.145|
+P4|Zakonczony|Login|Login4|/Login3/2022-05-24 23:59:35.723|bgfikl/Login/2022-05-27 17:56:49.946|
+P1|Aktywny|Login|Login4|abc/Login3/2022-05-24 23:16:12.491|AbcGEd/Login2/2022-05-23 22:06:46.147|awfe/Login/2022-05-27 18:16:25.539|
+P7|Zaplanowany|Login2|Login4|awde/Login3/2022-05-25 00:05:49.524|
+P6|Aktywny|Login2|null|/Login3/2022-05-25 00:04:31.112|

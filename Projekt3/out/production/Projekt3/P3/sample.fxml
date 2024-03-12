@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="MainPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="960.0" prefWidth="1080.0" style="-fx-background-color: Orange;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="P3.Controller">
+   <children>
+      <ScrollPane fx:id="MainScrollPane" hbarPolicy="NEVER" layoutX="27.0" layoutY="45.0" prefHeight="871.0" prefWidth="300.0" vbarPolicy="ALWAYS" />
+      <Pane fx:id="MainContentPane" layoutX="344.0" layoutY="45.0" prefHeight="871.0" prefWidth="722.0" style="-fx-background-color: #ECB664;">
+         <children>
+            <Label fx:id="ContentNamePane" alignment="CENTER" contentDisplay="CENTER" layoutX="20.0" layoutY="41.0" prefHeight="69.0" prefWidth="683.0" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="37.0" />
+               </font>
+            </Label>
+            <ListView fx:id="ContentIngridientList" layoutX="30.0" layoutY="260.0" prefHeight="385.0" prefWidth="662.0" />
+            <Label fx:id="ContentRating" layoutX="143.0" layoutY="645.0" prefHeight="54.0" prefWidth="549.0" textAlignment="CENTER">
+               <font>
+                  <Font name="System Italic" size="25.0" />
+               </font>
+            </Label>
+            <Label fx:id="ContentRatingLabel" alignment="CENTER_RIGHT" layoutX="30.0" layoutY="645.0" prefHeight="54.0" prefWidth="111.0" text="Ocena:" textAlignment="RIGHT">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <MenuBar fx:id="MainMenuBar" nodeOrientation="RIGHT_TO_LEFT" prefHeight="30.0" prefWidth="1080.0" style="-fx-background-color: DarkOrange; -fx-border-color: black; -fx-border-color: #B66E01;">
+        <menus>
+          <Menu mnemonicParsing="false" text="Menu">
+            <items>
+              <MenuItem fx:id="AddRecipeMenuButton" mnemonicParsing="false" onAction="#handleAddRecipe" text="Dodaj Przepis" />
+                  <MenuItem fx:id="AddIngridientMenuButton" mnemonicParsing="false" onAction="#handleAddIngridient" text="Dodaj Składnik" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#Exit" text="Exit" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+   <opaqueInsets>
+      <Insets />
+   </opaqueInsets>
+</Pane>
